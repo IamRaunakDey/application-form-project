@@ -5,7 +5,7 @@ import os
 
 from tkcalendar import DateEntry 
 
-x=1000000
+x=0000000
 
 window=Tk()
 window.configure(bg = "lightblue")
