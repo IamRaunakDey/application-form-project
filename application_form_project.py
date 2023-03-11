@@ -162,11 +162,3 @@ filemenu.add_command(label = "Delete the data file", command = Delete)
 window.config(menu=menubar)
 
 window.mainloop()
-'''
-Data Entry Project (CSE, 2nd year,Batch = 2021-2025)
-Members:
-Raunak Dey(Roll Number : 19)
-Agnibha Chakraborty(Roll number : 08)
-Aritra Ganguly(Roll number : 23)
-Soumyajit Chakraborty(Roll number : 09)
-'''
